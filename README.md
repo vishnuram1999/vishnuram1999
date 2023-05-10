@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - My name is **Vishnuram Rajkumar**, but on the internet I go by **viking71**
-- 🔭 Currently working as **solo smart contract auditor and security researcher**
+- 🔭 Currently working as a **Solo Smart Contract Auditor and Security Researcher**
 - 📫 Connect with me [@Vishnuram73](https://twitter.com/Vishnuram73)
-- 💬 Ask me about blockchain and cybersecurity
+- 💬 Ask me about Blockchain and Cybersecurity
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
