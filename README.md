@@ -20,9 +20,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about blockchain and cybersecurity
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vishnuram1999&label=Views&color=lightgrey&style=flat-square" alt="vishnuram1999" /> 
-</p>
-<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnuram1999&theme=omni&show_icons=true&count_private=true&hide_border=true" />
   </a>
