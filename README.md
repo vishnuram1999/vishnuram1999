@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - My name is **Vishnuram Rajkumar**, but on the internet I go by **viking71**
-- 🔭 Currently working as a **Smart Contract Developer and Security Researcher**
+- 🔭 Currently working as a **Blockchain Engineer and Security Researcher**
 - 📫 Connect with me [@Vishnuram73](https://twitter.com/Vishnuram73)
 - 💬 Ask me about Blockchain and Cybersecurity
 
